@@ -3,5 +3,8 @@
 
     <string name="hello">Hello World, AnimationListenerExampleActivity!</string>
     <string name="app_name">AnimationListenerExample</string>
+    <string name="some_text">Some Text</string>
+    <string name="move">Move</string>
+    <string name="move_and_stay">Move and Stay</string>
 
 </resources>

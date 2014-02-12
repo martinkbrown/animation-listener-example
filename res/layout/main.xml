@@ -9,18 +9,18 @@
         android:id="@+id/myView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Some Text"/>
+        android:text="@string/some_text"/>
 
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Move" />
+        android:text="@string/move" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Move and Stay" />
+        android:text="@string/move_and_stay" />
 
 </LinearLayout>
